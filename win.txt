@@ -1,0 +1,4 @@
+dir - displays all the directories in the folder
+dir/a - shows all the hidden folder in the directory
+echo.>"file.txt" - to create a text file
+del file.txt - to remove/delete the text file
